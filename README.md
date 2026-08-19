@@ -4,8 +4,7 @@
 
 ## 8 - Dahlia
 
-## Since I haven't done the hello.py activity yet, the link doesn't lead to anything.
-
+Since I haven't done the GitHub repository activity  yet, the link does not lead to anything.
 Links for submission down below:
 
 Links:
