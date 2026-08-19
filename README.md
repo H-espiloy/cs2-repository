@@ -1,4 +1,4 @@
-#cs2-portfolio/
+#cs2-portfolio
 
 ## Harell R. Espiloy
 
